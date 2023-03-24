@@ -9,17 +9,15 @@ programa
 		leia(mes)
 		escolha(mes){
 			caso 0:
-				escreva("não pode sair na segunda-feira")
-				pare
 			caso 5:
 				escreva("não pode sair na segunda-feira")
 				pare
+			
 			caso 1:
-				escreva("não pode sair na terça-feira")
-				pare
 			caso 6:
 				escreva("não pode sair na terça-feira")
 				pare
+
 			caso 2:
 				escreva("não pode sair na quarta-feira")
 				pare
@@ -29,7 +27,7 @@ programa
 			caso 3:
 				escreva("não pode sair na quinta-feira")
 				pare
-			caso 8:
+			caso 8:
 				escreva("não pode sair na quinta-feira")
 				pare
 			caso 4:
@@ -48,7 +46,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 197; 
+ * @POSICAO-CURSOR = 379; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
