@@ -1,0 +1,10 @@
+primeiro 
+Registrar todos os tipos dos produtos no vetor produtos.
+
+Segundo
+armazenar o produto na estante, 
+
+terceiro
+vai percorrer toda a matriz, quando encontrado um produto, 
+vai contar um produto na variável contador(cada tipo) e uma posição na matriz vai estar ocupado
+
